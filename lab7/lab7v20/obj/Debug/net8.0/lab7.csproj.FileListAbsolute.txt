@@ -1,0 +1,15 @@
+D:\Project oop\OOP-Yanytskiy\lab7\lab7v20\bin\Debug\net8.0\lab7.exe
+D:\Project oop\OOP-Yanytskiy\lab7\lab7v20\bin\Debug\net8.0\lab7.deps.json
+D:\Project oop\OOP-Yanytskiy\lab7\lab7v20\bin\Debug\net8.0\lab7.runtimeconfig.json
+D:\Project oop\OOP-Yanytskiy\lab7\lab7v20\bin\Debug\net8.0\lab7.dll
+D:\Project oop\OOP-Yanytskiy\lab7\lab7v20\bin\Debug\net8.0\lab7.pdb
+D:\Project oop\OOP-Yanytskiy\lab7\lab7v20\obj\Debug\net8.0\lab7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project oop\OOP-Yanytskiy\lab7\lab7v20\obj\Debug\net8.0\lab7.AssemblyInfoInputs.cache
+D:\Project oop\OOP-Yanytskiy\lab7\lab7v20\obj\Debug\net8.0\lab7.AssemblyInfo.cs
+D:\Project oop\OOP-Yanytskiy\lab7\lab7v20\obj\Debug\net8.0\lab7.csproj.CoreCompileInputs.cache
+D:\Project oop\OOP-Yanytskiy\lab7\lab7v20\obj\Debug\net8.0\lab7.sourcelink.json
+D:\Project oop\OOP-Yanytskiy\lab7\lab7v20\obj\Debug\net8.0\lab7.dll
+D:\Project oop\OOP-Yanytskiy\lab7\lab7v20\obj\Debug\net8.0\refint\lab7.dll
+D:\Project oop\OOP-Yanytskiy\lab7\lab7v20\obj\Debug\net8.0\lab7.pdb
+D:\Project oop\OOP-Yanytskiy\lab7\lab7v20\obj\Debug\net8.0\lab7.genruntimeconfig.cache
+D:\Project oop\OOP-Yanytskiy\lab7\lab7v20\obj\Debug\net8.0\ref\lab7.dll
