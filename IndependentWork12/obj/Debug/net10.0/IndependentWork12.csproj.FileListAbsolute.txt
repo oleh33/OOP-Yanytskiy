@@ -1,0 +1,15 @@
+D:\Project oop\OOP-Yanytskiy\IndependentWork12\bin\Debug\net10.0\IndependentWork12.exe
+D:\Project oop\OOP-Yanytskiy\IndependentWork12\bin\Debug\net10.0\IndependentWork12.deps.json
+D:\Project oop\OOP-Yanytskiy\IndependentWork12\bin\Debug\net10.0\IndependentWork12.runtimeconfig.json
+D:\Project oop\OOP-Yanytskiy\IndependentWork12\bin\Debug\net10.0\IndependentWork12.dll
+D:\Project oop\OOP-Yanytskiy\IndependentWork12\bin\Debug\net10.0\IndependentWork12.pdb
+D:\Project oop\OOP-Yanytskiy\IndependentWork12\obj\Debug\net10.0\IndependentWork12.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project oop\OOP-Yanytskiy\IndependentWork12\obj\Debug\net10.0\IndependentWork12.AssemblyInfoInputs.cache
+D:\Project oop\OOP-Yanytskiy\IndependentWork12\obj\Debug\net10.0\IndependentWork12.AssemblyInfo.cs
+D:\Project oop\OOP-Yanytskiy\IndependentWork12\obj\Debug\net10.0\IndependentWork12.csproj.CoreCompileInputs.cache
+D:\Project oop\OOP-Yanytskiy\IndependentWork12\obj\Debug\net10.0\IndependentWork12.sourcelink.json
+D:\Project oop\OOP-Yanytskiy\IndependentWork12\obj\Debug\net10.0\IndependentWork12.dll
+D:\Project oop\OOP-Yanytskiy\IndependentWork12\obj\Debug\net10.0\refint\IndependentWork12.dll
+D:\Project oop\OOP-Yanytskiy\IndependentWork12\obj\Debug\net10.0\IndependentWork12.pdb
+D:\Project oop\OOP-Yanytskiy\IndependentWork12\obj\Debug\net10.0\IndependentWork12.genruntimeconfig.cache
+D:\Project oop\OOP-Yanytskiy\IndependentWork12\obj\Debug\net10.0\ref\IndependentWork12.dll
