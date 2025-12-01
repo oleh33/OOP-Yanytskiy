@@ -1,0 +1,15 @@
+D:\Project oop\OOP-Yanytskiy\lab5\bin\Debug\net10.0\lab5v20.exe
+D:\Project oop\OOP-Yanytskiy\lab5\bin\Debug\net10.0\lab5v20.deps.json
+D:\Project oop\OOP-Yanytskiy\lab5\bin\Debug\net10.0\lab5v20.runtimeconfig.json
+D:\Project oop\OOP-Yanytskiy\lab5\bin\Debug\net10.0\lab5v20.dll
+D:\Project oop\OOP-Yanytskiy\lab5\bin\Debug\net10.0\lab5v20.pdb
+D:\Project oop\OOP-Yanytskiy\lab5\obj\Debug\net10.0\lab5v20.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project oop\OOP-Yanytskiy\lab5\obj\Debug\net10.0\lab5v20.AssemblyInfoInputs.cache
+D:\Project oop\OOP-Yanytskiy\lab5\obj\Debug\net10.0\lab5v20.AssemblyInfo.cs
+D:\Project oop\OOP-Yanytskiy\lab5\obj\Debug\net10.0\lab5v20.csproj.CoreCompileInputs.cache
+D:\Project oop\OOP-Yanytskiy\lab5\obj\Debug\net10.0\lab5v20.sourcelink.json
+D:\Project oop\OOP-Yanytskiy\lab5\obj\Debug\net10.0\lab5v20.dll
+D:\Project oop\OOP-Yanytskiy\lab5\obj\Debug\net10.0\refint\lab5v20.dll
+D:\Project oop\OOP-Yanytskiy\lab5\obj\Debug\net10.0\lab5v20.pdb
+D:\Project oop\OOP-Yanytskiy\lab5\obj\Debug\net10.0\lab5v20.genruntimeconfig.cache
+D:\Project oop\OOP-Yanytskiy\lab5\obj\Debug\net10.0\ref\lab5v20.dll
